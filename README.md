@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Showcase](https://raw.githubusercontent.com/qNecro/magic-8-ball/main/preview.png)
 
 # Magic 8 Ball
 
